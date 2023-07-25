@@ -1,12 +1,6 @@
 0x01. Git
-Git
-Code versioning
-Github
- By: Guillaume
- Weight: 0
- Project will start Jul 21, 2023 6:00 AM, must end by Jul 28, 2023 6:00 AM
- Checker was released at Jul 21, 2023 6:00 AM
- An auto review will be launched at the deadline
+
+
 Resources
 Read or watch:
 
